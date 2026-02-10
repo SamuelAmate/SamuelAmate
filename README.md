@@ -17,4 +17,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samuelamate&show_icons=true&locale=en" alt="samuelamate" /></p>
 
+![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samuelamate&" alt="samuelamate" /></p>
