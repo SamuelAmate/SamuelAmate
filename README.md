@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Samuel Amate</h1>
 <h3 align="center">I'm a Brazilian programming student</h3>
 
-- 🔭 I’m currently working on **Personal Crud Project with Firebase**
+- 🔭 I’m currently working on **Technical school final project **
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, PHP, Python, Node JS, Boostrap, React Native, Arduino, C++, SQL, Microsoft Dotnet**
+- 🌱 I’m currently learning **HTML, CSS, JavaScript, PHP, Python, Node JS, Boostrap, React Native, Arduino, Esp 32, C++, SQL, Microsoft Dotnet,SQLite,Turso, **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
