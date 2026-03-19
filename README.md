@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samuel Amate</h1>
 <h3 align="center">I'm a Brazilian programming student</h3>
 
-- 🔭 I’m currently working on **Technical school final project with Node JS, React Native and Esp 32 **
+- 🔭 I’m currently working on **Technical school final project with Node JS, React Native and Esp 32**
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, PHP, Python, Node JS, Boostrap, React Native, Arduino, Esp 32, C++, SQL, Microsoft Dotnet, SQLite, Turso**
 
