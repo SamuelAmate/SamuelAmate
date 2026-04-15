@@ -5,7 +5,6 @@
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, PHP, Python, Node JS, Boostrap, React Native, Arduino, Esp 32, C++, SQL, Microsoft Dotnet, SQLite, Turso**
 
-<img src="https://images.steamusercontent.com/ugc/1856054140868438591/41AC1FC2E18DF27E701679512AC1411B65366F06/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Alt Text" width="500">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
