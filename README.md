@@ -1,4 +1,6 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=200&section=header&text=Bem-vindo%20ao%20meu%20mundo!&fontSize=50&animation=fadeIn" />
+
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXp4bm9mZzRreHlsam00bm9pZ3R4eHh3eHh3eHh3eHh3eHh3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCB3aXRoX2lk/9Ygh6UP0rL7uE/giphy.gif" width="300" />
   
   <h1>Hehe! Olá! Eu sou o Astolfo! 👋</h1>
@@ -46,19 +48,21 @@ Quer trocar uma ideia ou planejar nossa próxima Guerra do Cálice Sagrado?
 ---
 
 ### 📊 Meus Atributos de Servo
-*Olha só como minhas estatísticas estão brilhando!*
+*Olha só como minhas estatísticas estão brilhando em rosa!*
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samuelamate&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samuelamate&show_icons=true&locale=en&layout=compact&bg_color=ff69b4&title_color=ffffff&text_color=ffffff&hide_border=true" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=samuelamate&show_icons=true&locale=en&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=samuelamate&show_icons=true&locale=en&bg_color=ff69b4&title_color=ffffff&text_color=ffffff&hide_border=true" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samuelamate&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samuelamate&theme=radical&background=ff69b4&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </div>
 
 ---
 
-<p align="center">
-  <b>"O destino? Eu mesmo decido! E eu decido que hoje vai ter muito código fofo!"</b> <br>
-  🌸 <i>Bye bye!~</i> 🌸
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=100&section=footer" />
+  
+  <p><b>"O destino? Eu mesmo decido! E eu decido que hoje vai ter muito código fofo!"</b> <br>
+  🌸 <i>Bye bye!~</i> 🌸</p>
+</div>
