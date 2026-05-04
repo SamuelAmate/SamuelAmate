@@ -4,28 +4,28 @@
   <h1>Hehe! Olá! Eu sou o Astolfo! 👋</h1>
   <h3>(Mas você também pode me chamar de Samuel Amate)</h3>
   
-  <p><b>O Femboy mais fofo do GitHub e seu Cavaleiro da Classe Rider favorito! 🌸✨</b></p>
+  <p><b>O Femboy mais fofo e provocante do GitHub ✨🌸</b></p>
 </div>
 
 ---
 
-### 🛡️ Sobre este Paladino
-Eu sou um estudante de programação brasileiro que vive a vida sem muitas preocupações (minha sanidade evaporou faz tempo, igual à Lua!). Adoro aventuras tecnológicas e estou sempre pronto para ajudar meus amigos com um sorriso no rosto e um código na mão!
+### 🛡️ Sobre este Paladino (com um toque bem safadinho)
+
+Eu sou um estudante de programação brasileiro que vive a vida sem muitas preocupações... e adoro provocar um pouquinho enquanto codo 😏
 
 <div align="center">
-  <!-- GIF do Astolfo na Academia (Giphy) -->
-  <img src="https://media.giphy.com/media/Ov2cUwhzV0It9YsNQq/giphy.gif" width="250" />
-  <p><i>Ficando forte para carregar o peso dos meus deploys!</i></p>
+  <!-- GIF Sensual Hip Swing -->
+  <img src="https://gifdb.com/images/high/astolfo-sensual-hip-swinging-dance-ytf46e572822yoyt.gif" width="320" />
+  <p><i>Rebolando enquanto o código compila...</i></p>
 </div>
 
-- 🎠 **Em qual montaria estou agora?** Atualmente focado no meu TCC épico usando **Node JS, React Native e ESP32**. É quase tão complexo quanto domar o Hipogrifo!
-- ✨ **Minha busca constante:** Estou acumulando conhecimentos em **HTML, CSS, JavaScript, PHP, Python, Node JS, Bootstrap, React Native, Arduino, ESP32, C++, SQL, .NET e Turso**.
-- 💖 **Lema de vida:** Não importa o gênero ou a lógica, o que importa é ser feliz e codar com estilo!
+- 🎠 **Em qual montaria estou agora?** Node JS, React Native, ESP32 e bastante energia extra~ 
+- ✨ **Minha busca constante:** HTML, CSS, JavaScript, Python, React, Arduino... e dançar bem provocante no espelho.
+- 💖 **Lema de vida:** Seja feliz, codifique com estilo e rebole sem culpa!
 
 ---
 
-### 📱 Fale com o Rider!
-Quer trocar uma ideia ou planejar nossa próxima Guerra do Cálice Sagrado?
+### 📱 Fale com o Rider! (se tiver coragem)
 
 <p align="left">
 <a href="https://linkedin.com/in/samuel-amate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuel-amate" height="30" width="40" /></a>
@@ -34,26 +34,24 @@ Quer trocar uma ideia ou planejar nossa próxima Guerra do Cálice Sagrado?
 ---
 
 ### ⚔️ Meu Inventário de Relíquias (Skills)
-*Essas são as ferramentas que eu carrego na minha jornada para salvar o mundo (ou pelo menos terminar o deploy)!*
 
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/>
+  <!-- mais ícones... -->
 </p>
 
-<div align="right">
-  <!-- Imagem do Astolfo PicMix -->
-  <img src="https://img1.picmix.com/output/pic/normal/4/5/4/8/11128454_63363.gif" width="180" />
+<div align="center">
+  <!-- Mais GIFs sensuais -->
+  <img src="https://gifdb.com/images/high/astolfo-cosplayer-sexy-dancing-dxa2se81cymkes99.gif" width="280" />
+  <img src="https://media.giphy.com/media/Ov2cUwhzV0It9YsNQq/giphy.gif" width="250" />
 </div>
 
 ---
 
 ### 📊 Meus Atributos de Servo
-*Olha só como minhas estatísticas estão brilhando!*
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samuelamate&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" />
@@ -64,10 +62,13 @@ Quer trocar uma ideia ou planejar nossa próxima Guerra do Cálice Sagrado?
 ---
 
 <div align="center">
-  <!-- Imagem do Pinterest (Astolfo fofo) -->
   <img src="https://i.pinimg.com/originals/92/74/60/927460117005452607.jpg" width="200" style="border-radius: 50%;" />
+  
+  <!-- GIF extra sensual -->
+  <img src="https://tenor.com/view/astolfo-femboy-hot-gif-1766275711189871543" width="280" /> <!-- Tenor às vezes precisa do link direto, teste -->
+  
   <p>
-    <b>"O destino? Eu mesmo decido! E eu decido que hoje vai ter muito código fofo!"</b> <br>
+    <b>"O destino? Eu mesmo decido... e hoje decidi ser bem safadinho~"</b> <br>
     🌸 <i>Bye bye!~</i> 🌸
   </p>
 </div>
