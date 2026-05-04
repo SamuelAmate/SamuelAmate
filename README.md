@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXp4bm9mZzRreHlsam00bm9pZ3R4eHh3eHh3eHh3eHh3eHh3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCB3aXRoX2lk/9Ygh6UP0rL7uE/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXp4bm9mZzRreHlsam00bm9pZ3R4eHh3eHh3eHh3eHh3eHh3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9iZCB3aXRoX2lk/9Ygh6UP0rL7uE/giphy.gif" width="300" />
   
   <h1>Hehe! Olá! Eu sou o Astolfo! 👋</h1>
   <h3>(Mas você também pode me chamar de Samuel Amate)</h3>
@@ -11,6 +11,10 @@
 
 ### 🛡️ Sobre este Paladino
 Eu sou um estudante de programação brasileiro que vive a vida sem muitas preocupações (minha sanidade evaporou faz tempo, igual à Lua!). Adoro aventuras tecnológicas e estou sempre pronto para ajudar meus amigos com um sorriso no rosto e um código na mão!
+
+<div align="right">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN29reXN6ZXI5ZzV4Yzh4Z3VqamR4YXJ0bmZ4dzZ4cXN4Y3p4eHh3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bSghvXfK9WpY4/giphy.gif" width="200" />
+</div>
 
 - 🎠 **Em qual montaria estou agora?** Atualmente focado no meu TCC épico usando **Node JS, React Native e ESP32**. É quase tão complexo quanto domar o Hipogrifo!
 - ✨ **Minha busca constante:** Estou acumulando conhecimentos em **HTML, CSS, JavaScript, PHP, Python, Node JS, Bootstrap, React Native, Arduino, ESP32, C++, SQL, .NET e Turso**.
@@ -58,7 +62,10 @@ Quer trocar uma ideia ou planejar nossa próxima Guerra do Cálice Sagrado?
 
 ---
 
-<p align="center">
-  <b>"O destino? Eu mesmo decido! E eu decido que hoje vai ter muito código fofo!"</b> <br>
-  🌸 <i>Bye bye!~</i> 🌸
-</p>
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmtpZzhpbmZidm5mZXZ0Zmd5ZGF3dzZ5eW9xcGJ6cnB6bnB6bnB6biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p0L1rezYH2V1s9zDov/giphy.gif" width="150" />
+  <p>
+    <b>"O destino? Eu mesmo decido! E eu decido que hoje vai ter muito código fofo!"</b> <br>
+    🌸 <i>Bye bye!~</i> 🌸
+  </p>
+</div>
