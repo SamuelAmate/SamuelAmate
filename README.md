@@ -12,8 +12,10 @@
 ### 🛡️ Sobre este Paladino
 Eu sou um estudante de programação brasileiro que vive a vida sem muitas preocupações (minha sanidade evaporou faz tempo, igual à Lua!). Adoro aventuras tecnológicas e estou sempre pronto para ajudar meus amigos com um sorriso no rosto e um código na mão!
 
-<div align="right">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN29reXN6ZXI5ZzV4Yzh4Z3VqamR4YXJ0bmZ4dzZ4cXN4Y3p4eHh3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bSghvXfK9WpY4/giphy.gif" width="200" />
+<div align="center">
+  <!-- GIF do Astolfo na Academia (Giphy) -->
+  <img src="https://media.giphy.com/media/Ov2cUwhzV0It9YsNQq/giphy.gif" width="250" />
+  <p><i>Ficando forte para carregar o peso dos meus deploys!</i></p>
 </div>
 
 - 🎠 **Em qual montaria estou agora?** Atualmente focado no meu TCC épico usando **Node JS, React Native e ESP32**. É quase tão complexo quanto domar o Hipogrifo!
@@ -41,11 +43,12 @@ Quer trocar uma ideia ou planejar nossa próxima Guerra do Cálice Sagrado?
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="45" height="45"/>
 </p>
+
+<div align="right">
+  <!-- Imagem do Astolfo PicMix -->
+  <img src="https://img1.picmix.com/output/pic/normal/4/5/4/8/11128454_63363.gif" width="180" />
+</div>
 
 ---
 
@@ -56,14 +59,13 @@ Quer trocar uma ideia ou planejar nossa próxima Guerra do Cálice Sagrado?
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samuelamate&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=samuelamate&show_icons=true&locale=en&theme=radical&hide_border=true" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samuelamate&theme=radical&hide_border=true" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmtpZzhpbmZidm5mZXZ0Zmd5ZGF3dzZ5eW9xcGJ6cnB6bnB6bnB6biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p0L1rezYH2V1s9zDov/giphy.gif" width="150" />
+  <!-- Imagem do Pinterest (Astolfo fofo) -->
+  <img src="https://i.pinimg.com/originals/92/74/60/927460117005452607.jpg" width="200" style="border-radius: 50%;" />
   <p>
     <b>"O destino? Eu mesmo decido! E eu decido que hoje vai ter muito código fofo!"</b> <br>
     🌸 <i>Bye bye!~</i> 🌸
