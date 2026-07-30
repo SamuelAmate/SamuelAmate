@@ -1,20 +1,16 @@
 <div align="center">
 
-<img src="https://media.tenor.com/zTQQ4J6vS3kAAAAi/kawaii-anime.gif" width="120"/>
+<img src="https://media.tenor.com/images/e3dd773e44bfea58e8b10b7a12d055af/tenor.gif" width="180"/>
+<img src="https://media.tenor.com/images/e9a065be7d208987c927cb4f3060464f/tenor.gif" width="180"/>
+<img src="https://media.tenor.com/images/fb1aa76944c156acc494fff37ebdbcfa/tenor.gif" width="180"/>
 
-# 🌸 Oláaa! Eu sou o Astolfo! 🌸
+# 🌸💖 Hehe! Olá! Eu sou o Astolfo! 💖🌸
 
-### 💖 (Mas você também pode me chamar de Samuel Amate!) 💖
+### *(Mas você também pode me chamar de Samuel Amate!)*
 
-<img src="https://media.giphy.com/media/9Ygh6UP0rL7uE/giphy.gif" width="350"/>
+<img src="https://readme-typing-svg.demolab.com?font=Comic+Neue&weight=700&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=🌸+Bem-vindo+ao+meu+perfil!;💖+Femboy+Programador;🎀+Node+JS+%7C+React+Native+%7C+ESP32;✨+Sempre+aprendendo+algo+novo!"/>
 
-### 🎀 O Femboy mais fofo do GitHub 🎀
-
-✨ Rider Class • Programador • Brasileiro • Gamer • Café + Código + Caos ✨
-
-<img src="https://readme-typing-svg.demolab.com?font=Comic+Neue&weight=700&size=25&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Bem-vindo+ao+meu+perfil!;Node+JS+%F0%9F%92%97+React+Native;ESP32+Lover;Femboy+Power+%F0%9F%8E%80;Sempre+aprendendo+algo+novo+%F0%9F%8C%B8" />
-
-![](https://komarev.com/ghpvc/?username=samuelamate&color=ff69b4&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=samuelamate&style=for-the-badge&color=ff69b4)
 
 </div>
 
@@ -22,21 +18,27 @@
 
 # 🌸 Sobre mim
 
-<img align="right" width="220" src="https://media.tenor.com/BJQ7z6Jt2D4AAAAi/anime-kawaii.gif">
+<img align="right" width="250" src="https://media.tenor.com/images/e3dd773e44bfea58e8b10b7a12d055af/tenor.gif"/>
 
-💗 Oii!!
+💗 Olá!!
 
-Sou um estudante brasileiro apaixonado por tecnologia, anime e coisas fofinhas.
+Sou um estudante brasileiro apaixonado por programação, anime e tecnologia.
 
-Minha sanidade já evaporou faz tempo, então agora eu apenas aceito o caos e continuo programando. ✨
+Minha sanidade evaporou faz tempo, então agora apenas aceito o caos enquanto programo. ✨
 
-🌸 Atualmente desenvolvendo um **TCC épico** usando:
+## 💖 Atualmente
 
-- 💖 Node JS
-- 🎀 React Native
-- 🌸 ESP32
+🌸 Desenvolvendo um TCC usando
 
-Enquanto isso continuo aprendendo:
+- Node JS
+- React Native
+- ESP32
+
+---
+
+<img align="left" width="220" src="https://media.tenor.com/images/fb1aa76944c156acc494fff37ebdbcfa/tenor.gif"/>
+
+## 🎀 Aprendendo
 
 ✨ HTML
 
@@ -62,27 +64,55 @@ Enquanto isso continuo aprendendo:
 
 ✨ Turso
 
-> 💕 *"Não importa o gênero ou a linguagem... o importante é ser feliz e escrever código bonito."*
+<br><br>
 
 ---
 
-# 🎀 Meu Arsenal
+# 🌷 Meu Arsenal
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,python,php,cpp,mysql,dotnet,arduino,figma&theme=light"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,php,cpp,mysql,dotnet,arduino,figma&theme=light"/>
 
 </div>
 
 ---
 
-# 🌷 GitHub Stats
+# 💕 Alguns GIFs favoritos
+
+<div align="center">
+
+<img src="https://media.tenor.com/images/e3dd773e44bfea58e8b10b7a12d055af/tenor.gif" width="180"/>
+
+<img src="https://media.tenor.com/images/e9a065be7d208987c927cb4f3060464f/tenor.gif" width="180"/>
+
+<img src="https://tenor.com" width="180"/>
+
+<img src="https://tenor.com" width="180"/>
+
+<img src="https://tenor.com" width="180"/>
+
+<img src="https://media.tenor.com/images/fb1aa76944c156acc494fff37ebdbcfa/tenor.gif" width="180"/>
+
+<img src="https://tenor.com" width="180"/>
+
+<img src="https://tenor.com" width="180"/>
+
+<img src="https://tenor.com" width="180"/>
+
+<img src="https://media.tenor.com/images/28f791fa9239134b044bc0791188e5d0/tenor.gif" width="180"/>
+
+</div>
+
+---
+
+# 📊 Estatísticas
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=samuelamate&show_icons=true&theme=rose_pine&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=samuelamate&theme=rose_pine&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=samuelamate&theme=rose_pine&hide_border=true"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelamate&layout=compact&theme=rose_pine&hide_border=true"/>
 
@@ -98,19 +128,23 @@ Enquanto isso continuo aprendendo:
 <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+<a href="https://github.com/samuelamate">
+<img src="https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </div>
 
 ---
 
 <div align="center">
 
-## 🌸 Obrigado pela visita! 🌸
+<img src="https://media.tenor.com/images/28f791fa9239134b044bc0791188e5d0/tenor.gif" width="220"/>
 
-<img src="https://media.tenor.com/5iVv64kTfH0AAAAi/cute-anime.gif" width="180"/>
+## 🌸 Obrigado por visitar meu perfil! 🌸
 
-### 💖 Tenha um dia cheio de café, código e felicidade! 💖
+*"Não importa a linguagem, o importante é codar com felicidade."* 💖
 
-<img src="https://media.tenor.com/lm8P2Qq6n5AAAAAi/anime-heart.gif" width="120"/>
+<img src="https://media.tenor.com/images/e9a065be7d208987c927cb4f3060464f/tenor.gif" width="180"/>
 
 ✨ Bye Bye~ ✨
 
