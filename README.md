@@ -22,7 +22,7 @@
 
 💗 Olá!!
 
-Sou um estudante brasileiro apaixonado por programação, anime e tecnologia.
+Sou um estudante brasileiro bem aviadado, torço para o São Paulo, homens masculos e cabeludos, apaixonado por programação, anime e tecnologia.
 
 Minha sanidade evaporou faz tempo, então agora apenas aceito o caos enquanto programo. ✨
 
